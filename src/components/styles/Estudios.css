@@ -1,0 +1,48 @@
+.image_diploma {
+    max-width: 100%;
+    width: 520px;
+    margin-left: 40px;
+}
+.titulo_estudios{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 40px;
+}
+
+
+.container_description_estudios{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.center{
+    align-items: center;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.estudios{
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 1000;
+}
+
+.items_estudios{
+    margin-bottom: 10px;
+    font-size: 28px;
+}
+
+.idiomas{
+    text-align: center;
+    font-weight: 1000;
+}
+
+.items_idiomas{
+    margin-bottom: 10px;
+    font-size: 28px;
+}

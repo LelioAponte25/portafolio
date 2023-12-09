@@ -1,0 +1,67 @@
+
+.sectionMi{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.encabezado {
+    display: grid;
+    text-align: center;
+    padding: 1em 2em;
+    background-color: #2f3131;
+}
+
+.en_h2{
+    color: white;
+}
+
+.titulo_sobreMi{
+    text-align: center;
+}
+
+.subtittle1{
+    text-align: center;
+    margin: 10px;
+}
+
+.image_lelio {
+    padding: 1em 2em 3em;
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.container_description{
+    margin: 30px;
+    padding: 3em 4em 5em;
+}
+
+.list_web {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.items_list{
+    margin: 20px;
+    text-align: center;
+}
+
+.web_image{
+    max-width: 100%;
+    width: 60px;
+    margin: 30px;
+}
+
+.rr{
+    max-width: 100%;
+    width: 280px;
+    border-radius: 10px;
+}
+
+.parrafo{
+text-wrap: pretty;
+text-align: justify;
+max-width: 100%;
+width: 650px;
+margin: 20px;
+}

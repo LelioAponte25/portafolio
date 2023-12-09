@@ -1,0 +1,218 @@
+.contianer_secundario {
+    margin-top: 120px;
+}
+.tec_span {
+    margin-right: 8px;
+    font-weight: 800;
+}
+
+.cabecera {
+    margin-top: 100px;
+}
+
+.title_pricinpal{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+/*pokedex*/
+.container_pokedex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.titulo_pokedex{
+    text-align: center;
+}
+
+.container_description_pokedex {
+    margin-left: 80px;
+}
+
+.imagen_pokedex{
+    max-width: 100%;
+    width: 550px;
+    margin-bottom: 10px;
+}
+
+.description_pokedex {
+    max-width: 100%;
+    width: 200px;
+    text-align: justify;
+}
+
+.role_pokedex {
+    font-weight: 800;
+}
+
+
+
+/*clima*/
+.container_weather-app{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.titulo_weather-app{
+    text-align: center;
+}
+
+.container_description_weather-app {
+    margin-left: 80px;
+}
+
+.imagen_weather-app{
+    max-width: 100%;
+    width: 550px;
+    margin-bottom: 10px;
+}
+
+.description_weather-app {
+    max-width: 100%;
+    width: 200px;
+    text-align: justify;
+}
+
+.role_weather-app {
+    font-weight: 800;
+}
+
+
+/*rick and morty*/
+.container_rick{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.titulo_rick{
+    text-align: center;
+}
+
+.container_description_rick {
+    margin-left: 80px;
+}
+
+.imagen_rick{
+    max-width: 100%;
+    width: 550px;
+    margin-bottom: 10px;
+}
+
+.description_rick {
+    max-width: 100%;
+    width: 200px;
+    text-align: justify;
+}
+
+.role_rick {
+    font-weight: 800;
+}
+/*spotify*/
+.container_spotify{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.titulo_spotify{
+    text-align: center;
+}
+
+.container_description_spotify {
+    margin-left: 80px;
+}
+
+.imagen_spotify{
+    max-width: 100%;
+    width: 550px;
+    margin-bottom: 10px;
+}
+
+.description_spotify {
+    max-width: 100%;
+    width: 200px;
+    text-align: justify;
+}
+
+.role_spotify {
+    font-weight: 800;
+}
+
+/*base de datos*/
+.container_base{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.titulo_base{
+    text-align: center;
+}
+
+.container_description_base {
+    margin-left: 80px;
+}
+
+.imagen_base{
+    max-width: 100%;
+    width: 550px;
+    margin-bottom: 10px;
+}
+
+.description_base {
+    max-width: 100%;
+    width: 200px;
+    text-align: justify;
+}
+
+.role_base {
+    font-weight: 800;
+}
+
+.text_base {
+    width: 20px;
+}
+
+.button_index {
+    background-color: white;
+    border: 2px solid rgb(245, 40, 40);
+    margin: 2px;
+    margin-left: 10px;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: inherit;
+    padding: 0.4em 1em;
+    box-shadow: 2px 2px 2px black;
+    margin: 20px;
+    margin-bottom: 80px;
+}
+
+.button_index:hover {
+    border-radius: 4px;
+    background-color: yellow;
+    color: black;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.button_index:active {
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 0, 0);
+}
+.container_button{
+    text-align: center;
+}

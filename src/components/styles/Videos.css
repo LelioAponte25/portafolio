@@ -1,0 +1,34 @@
+.container_videos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.videos{
+    text-align: center;
+    margin: 50px;
+    font-size: 40px;
+    margin-top: 40px;
+    font-weight: 900;
+}
+
+.title_video1{
+    max-width: 100%;
+    width: 500px;
+    text-align: center;
+}
+.title_video2{
+    max-width: 100%;
+    width: 500px;
+    text-align: center;
+}
+.title_video1{
+    max-width: 100%;
+    width: 500px;
+    text-align: center;
+}
+.title_video1{
+    max-width: 100%;
+    width: 500px;
+    text-align: center;
+}
